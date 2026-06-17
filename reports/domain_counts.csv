@@ -1,0 +1,42 @@
+domain,event_count
+D&D delivery training,2
+sales order upload,2
+return/RMA,1
+NetSuite integration,1
+integration/access,1
+ERP basics,1
+fulfillment/FBA/FBM,1
+user training/integration,1
+e-commerce integration,1
+ERP proposal/business,1
+WMS/logistics,1
+Item/BOM/outsourced manufacturing,1
+manufacturing/accounting,1
+manufacturing/troubleshooting,1
+customer case/translation,1
+import accounting/trade,1
+logistics/trade/manufacturing,1
+manufacturing/inventory,1
+BOM/WO/Routing,1
+data import,1
+alignment/O2C,1
+electronic bank payment,1
+O2C,1
+BOM/Uvify,1
+manufacturing/finance/intercompany,1
+WO Build/inventory,1
+BIN/Stock Transfer/Lot Serial,1
+Intercompany/MRP,1
+consulting workflow,1
+sales upload/integration,1
+Amazon FBM/sales order,1
+return/shipping,1
+NetSuite/Armlogi,1
+NetSuite/Eccang,1
+outsourced manufacturing/phantom,1
+Ohora/To-Be process,1
+production/P2P,1
+BOM data,1
+production lines/costing,1
+BOM/Routing/WO costing,1
+production reporting/material gaps,1
