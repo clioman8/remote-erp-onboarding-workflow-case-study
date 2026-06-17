@@ -1,0 +1,16 @@
+gap_type,knowledge_area_count
+sequence_gap,1
+context_gap,1
+system_map_gap,1
+process_prerequisite_gap,1
+execution_gap,1
+data_quality_gap,1
+master_data_gap,1
+hierarchy_gap,1
+transaction_gap,1
+advanced_concept_gap,1
+planning_gap,1
+advanced_process_gap,1
+legal_entity_gap,1
+feedback_loop_gap,1
+access_governance_gap,1
