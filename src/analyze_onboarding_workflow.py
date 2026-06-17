@@ -18,11 +18,15 @@ reports/
 - role_mode_counts.csv
 
 visuals/
-- monthly_event_counts.png
-- risk_tag_counts.png
-- domain_counts.png
-- role_mode_counts.png
+- artifact_fragmentation_map.png
 - complexity_counts.png
+- cwi_interpretation_diagram.png
+- domain_counts.png
+- domain_overload_matrix.png
+- monthly_event_counts.png
+- onboarding_timeline.png
+- risk_tag_counts.png
+- role_mode_counts.png
 
 This script uses only reconstructed/anonymized summaries and synthetic data.
 """
