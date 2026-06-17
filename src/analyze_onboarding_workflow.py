@@ -5,15 +5,17 @@ This script reads the public-safe data files for the
 Remote ERP Onboarding Workflow Case Study and exports:
 
 reports/
-- monthly_event_counts.csv
-- domain_counts.csv
-- role_mode_counts.csv
+- analysis_summary.md
+- artifact_sensitivity_counts.csv
+- case_study_report.md
 - complexity_counts.csv
-- risk_tag_counts.csv
+- domain_counts.csv
 - failure_severity_counts.csv
 - knowledge_gap_counts.csv
-- artifact_sensitivity_counts.csv
-- analysis_summary.md
+- monthly_event_counts.csv
+- onboarding_timeline.png
+- risk_tag_counts.csv
+- role_mode_counts.csv
 
 visuals/
 - monthly_event_counts.png
