@@ -1,0 +1,8 @@
+sensitivity_level,artifact_count
+internal_summary,15
+low_sanitized,6
+medium_internal,2
+high_sensitive,1
+public_or_internal_reference,1
+internal_reference,1
+training_reference,1
